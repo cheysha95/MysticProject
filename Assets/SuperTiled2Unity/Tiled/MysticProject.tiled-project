@@ -1,0 +1,28 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+        "."
+    ],
+    "propertyTypes": [
+        {
+            "color": "#ffa0a0a4",
+            "id": 3,
+            "members": [
+                {
+                    "name": "direction",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "name": "roomTrigger",
+            "type": "class",
+            "useAs": [
+                "object",
+                "tile"
+            ]
+        }
+    ]
+}

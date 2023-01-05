@@ -1,0 +1,119 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Tileset/Indoor.tsx",
+    "expandedProjectPaths": [
+        "Tileset",
+        "Templates",
+        ".",
+        "Maps"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Maps/Cabin.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 82.5,
+                "y": 95.375
+            }
+        },
+        "Maps/Main.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 160.5,
+                "y": 232.75
+            }
+        },
+        "Maps/Test.tmx": {
+            "expandedObjectLayers": [
+                6,
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 502.66666666666663,
+                "y": 285.5
+            }
+        },
+        "Maps/left.tmx": {
+            "scale": 2.7045312499999996,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 160.10168120630888,
+                "y": 159.54705644462422
+            }
+        },
+        "Maps/up.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 159.99999999999994,
+                "y": 63
+            }
+        },
+        "Tileset/Indoor.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 5.5
+        },
+        "Tileset/InnerT.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 5.5
+        },
+        "Tileset/Overworld.tsx": {
+            "scaleInDock": 3
+        },
+        "Tileset/cave.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "Tileset/objects.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 5.5
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/hyman/MysticProject/Assets/Tiled/Tileset",
+    "last.imagePath": "C:/Users/hyman/MysticProject/Assets/Tiled/Tileset/Textures",
+    "last.objectTypesPath": "C:/Users/hyman/MysticProject/Assets/Tiled/Types/propertytypes.xml",
+    "map.height": 10,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 10,
+    "openFiles": [
+        "Maps/left.tmx",
+        "Maps/up.tmx",
+        "Maps/Main.tmx",
+        "Maps/Test.tmx",
+        "Maps/Cabin.tmx",
+        "Tileset/Indoor.tsx"
+    ],
+    "project": "MysticProject.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Maps/left.tmx",
+        "Maps/up.tmx",
+        "Maps/Main.tmx",
+        "Maps/Test.tmx",
+        "Maps/Cabin.tmx",
+        "Tileset/Indoor.tsx",
+        "Tileset/cave.tsx",
+        "Tileset/objects.tsx",
+        "Tileset/InnerT.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#201729",
+    "tileset.useTransparentColor": false
+}
